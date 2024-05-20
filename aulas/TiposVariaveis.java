@@ -1,4 +1,7 @@
-    public class TiposVariaveis {
+package aulas;
+
+
+public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         //Variáveis em JAVA
         byte idade = 123;
